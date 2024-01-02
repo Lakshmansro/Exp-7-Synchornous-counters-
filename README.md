@@ -1,4 +1,9 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
+
+Name: Sri lakshman
+
+RegisterNumber: 212223240159
+
 ### AIM: 
 To implement 3 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
