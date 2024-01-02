@@ -87,27 +87,26 @@ end
 endmodule
 ```
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### RTL LOGIC UP COUNTER AND DOWN COUNTER:
+## Up Counter:
+![rtl up](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/a4d394c8-1949-4d37-bb8b-915d983b996b)
 
+## Down Counter:
+![rtl dc](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/494a12de-5a8e-4024-b676-0481f5120f08)
 
+### TIMING DIGRAMS FOR COUNTER:
+## Up Counter:
+![up clk](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/48a669ea-44b0-4c0f-8c5a-4f48345f01b7)
 
+## Down Counter:
+![dc clk](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/54e49622-9b1b-46d6-a9ab-4e6246d991e2)
 
+### TRUTH TABLE:
+## Up Counter:
+![image](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/16c8cba7-6074-4265-af4b-2a5ff09dbd1d)
 
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
+## Down Counter:
+![image](https://github.com/23000285/Exp-7-Synchornous-counters-/assets/138970859/c824ede7-dfb7-49c8-9578-39595b56a341)
 
 ### RESULTS 
+By this we have verified the truth table of 3-bit up-counter and 3-bit down-counter using verilog.
